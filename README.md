@@ -6,4 +6,4 @@ As part of strengthening the institutional capacity of the Mexican regulatory ag
 
 To achieve this, we are designing a free and open mechanism for collecting public information about the offer each company have to reach consumers, enabling anyone to collect information from different companies providing the same service, and thus to choose the more convenient with better information.
 
-Reader, feel free to contribute to this project the way you want, so together we can improve the way we do business in Mexico.
+Finallly, ew appreciate the invaluable support received by Browserstack, without them we will not be able to accomplish our goal. Dear reader, feel free to contribute to this project the way you want, so together we can improve the way we do business in Mexico.
